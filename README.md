@@ -2,7 +2,8 @@
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <h1>Atmoshperic Sciences 451 - Weather Station Data Analysis Prokect </h1>
+  <h1>Atmoshperic Sciences 451 - Weather Station Data Analysis Project </h1>
+  <h3>By Alex Hewett, Undergraduate, Atmospheric Sciences Department, University of Washington</h3>
   <h2>What's in it?</h2>
     <p>Contains a data files directory, Jupyter notebook for analysis, and a technical paper reporting the results.</p>
   <h2>What was it?</h2>
